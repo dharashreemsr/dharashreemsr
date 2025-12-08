@@ -1,8 +1,8 @@
 
 
-![Akshay B](img/github-header-banner.png)
+![Dharashree S R](img/github-header-banner.png)
 <!--
-**akshayboffic/akshayboffic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dharashreemsr/dharashreemsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -39,13 +39,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><!-- GitHub --><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><!-- Linux --><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><!-- n8n --><img src="https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white" /><!-- Postman --><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><!-- MongoDB <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 --><!-- MySQL --><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><!-- PostgreSQL --><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><!-- Power BI --><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><!-- Tableau --><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
-
-
+<!--
 #### **Certifications**
 
 <!-- RHCSA -->
-<img src="https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white" /><!-- FreeCodeCamp Responsive Web Design --><img src="https://img.shields.io/badge/Responsive%20Web%20Design%20-%20FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-
 <!--
 <div align="center">
   <a href="https://leetcode.com/akshayboffic/">
