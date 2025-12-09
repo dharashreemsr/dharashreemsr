@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **NLP and automation workflows**
 - 💬 Ask me about **building intelligent automation systems, deploying ML models, and Linux system administration**
 - 📫 How to reach me:<br>
-[![Email](https://img.shields.io/badge/Email-akshaybharathy2005%40gmail.com-red?style=flat&logo=gmail)](mailto:akshaybharathy2005@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshayboffic-blue?style=flat&logo=linkedin)](https://linkedin.com/in/akshayboffic) [![GitHub](https://img.shields.io/badge/GitHub-akshayboffic-lightgrey?style=flat&logo=github)](https://github.com/akshayboffic)
+[![Email](https://img.shields.io/badge/Email-msrdharashree76%40gmail.com-red?style=flat&logo=gmail)](mailto:msrdharashree76@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshayboffic-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dharashreemsr) [![GitHub](https://img.shields.io/badge/GitHub-dharashreemsr-lightgrey?style=flat&logo=github)](https://github.com/dharashreemsr)
 
 ## 🛠️ Skills / Tech Stack
 
